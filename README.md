@@ -1,3 +1,3 @@
 # Project management system
-***karas
-***Limon
+*karas
+*Limon
